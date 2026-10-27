@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="62.279999"
+   width="98.532043"
+   sodipodi:docname="noun_questions_670405.svg"
+   id="svg10"
+   version="1.1"
+   y="0px"
+   x="0px"
+   viewBox="0 0 98.532043 62.279999"
+   data-name="Layer 1">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="43.64"
+     inkscape:cx="49.254374"
+     inkscape:zoom="6.88"
+     showgrid="false"
+     id="namedview12"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title2">Artboard 8</title>
+  <path
+     id="path4"
+     d="m 67.074374,17.92 a 18.38,18.38 0 0 1 -12.53,18 c 0,0 -0.54,0.19 -0.54,0.51 v 4.3 a 5.39,5.39 0 1 1 -10.78,0 v -4.3 a 11.4,11.4 0 0 1 7.86,-10.72 7.66,7.66 0 0 0 5.17,-7.47 7.87,7.87 0 0 0 -7.75,-7.45 7.64,7.64 0 0 0 -6.82,4.35 5.3939967,5.3939967 0 0 1 -9.72,-4.68 18.36,18.36 0 0 1 16.51,-10.46 h 0.11 a 18.61,18.61 0 0 1 18.49,17.92 z m -18.46,33.52 a 5.42,5.42 0 1 0 5.42,5.42 5.42,5.42 0 0 0 -5.42,-5.42 z m 36.41,-43 h -0.08 a 13.38,13.38 0 0 0 -12,7.62 3.93,3.93 0 1 0 7.08,3.41 5.57,5.57 0 0 1 5,-3.17 5.73,5.73 0 0 1 5.65,5.43 5.58,5.58 0 0 1 -3.8,5.48 8.31,8.31 0 0 0 -5.73,7.81 v 3.12 a 3.93,3.93 0 1 0 7.86,0 v -3.11 c 0,-0.23 0.39,-0.37 0.39,-0.37 a 13.39,13.39 0 0 0 9.13,-13.15 13.56,13.56 0 0 0 -13.5,-13.06 z m 0,37.48 a 3.95,3.95 0 1 0 3.95,3.95 4,4 0 0 0 -3.93,-3.94 z m -72.52,-37.47 h -0.08 a 13.38,13.38 0 0 0 -12.00000025,7.62 3.93,3.93 0 1 0 7.08000005,3.41 5.56,5.56 0 0 1 5.0000002,-3.17 5.73,5.73 0 0 1 5.65,5.43 5.58,5.58 0 0 1 -3.8,5.48 8.31,8.31 0 0 0 -5.7300002,7.81 v 3.11 a 3.93,3.93 0 1 0 7.8600002,0 v -3.11 c 0,-0.23 0.39,-0.37 0.39,-0.37 a 13.39,13.39 0 0 0 9.13,-13.15 13.56,13.56 0 0 0 -13.5,-13.06 z m 0,37.48 a 3.95,3.95 0 1 0 3.95,3.95 4,4 0 0 0 -3.93,-3.95 z" />
+  <text
+     id="text6"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     font-weight="bold"
+     font-size="5px"
+     fill="#000000"
+     y="96.139999"
+     x="-0.74562627">Created by Gregor Cresnar</text>
+  <text
+     id="text8"
+     font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+     font-weight="bold"
+     font-size="5px"
+     fill="#000000"
+     y="101.14"
+     x="-0.74562627">from the Noun Project</text>
+</svg>

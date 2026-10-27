@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket MicroPython</title>
+</head>
+<body>
+    <h1>Connexion à MicroPython</h1>
+    <input type="text" id="message" placeholder="Message">
+    <button onclick="sendMessage()">Envoyer</button>
+    <div id="output"></div>
+
+    <script>
+        // Remplacer par l'IP de votre ESP
+        const ws = new WebSocket('ws://192.168.1.XXX:8765');
+        
+        ws.onopen = () => {
+            console.log('Connecté !');
+            document.getElementById('output').innerHTML += '<p>Connecté ✓</p>';
+        };
+        
+        ws.onmessage = (event) => {
+            console.log('Reçu:', event.data);
+            document.getElementById('output').innerHTML += 
+                `<p>Reçu: ${event.data}</p>`;
+        };
+        
+        ws.onerror = (error) => {
+            console.error('Erreur:', error);
+        };
+        
+        ws.onclose = () => {
+            console.log('Déconnecté');
+        };
+        
+        function sendMessage() {
+            const msg = document.getElementById('message').value;
+            ws.send(msg);
+        }
+    </script>
+</body>
+</html>
